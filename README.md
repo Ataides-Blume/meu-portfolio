@@ -23,7 +23,8 @@ Sou Ataides Blume Oliveira, um desenvolvedor em transição de carreira com paix
 - Destaques em cores vibrantes sobre fundo escuro
 
 ## Estrutura de Pastas
-Cada seção do projeto foi separada em arquivos próprios, facilitando a manutenção e a leitura do código. 
+Cada seção do projeto foi separada em arquivos próprios, facilitando a manutenção e a leitura do código.
+
 src/ 
 ├── css/  
 |  ├── seções
@@ -47,8 +48,8 @@ src/
 
 1. Clone este repositório ou baixe os arquivos ZIP.
 2. Abrindo diretamente o projeto no Github.
+3. Fique a vontade para explorar os recursos utilizados no desenvolvimento deste projeto, tambem podera me contatar deixando mensagem em meu email de contato destacado no profissional card que está no conteúdo deste projeto.
 
-Fique à vontade para me seguir ou entrar em contato pelas redes sociais listadas no portfólio.
 
 ## Agradecimentos
 
